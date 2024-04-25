@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-* 🌍  I'm based in Pathum Thani , Thailand
-* ✉️  You can contact me at [pantiraploy818@gmail.com](mailto:pantiraploy818@gmail.com)
+#### 🌍  I'm based in Pathum Thani , Thailand
+#### ✉️  You can contact me at [pantiraploy818@gmail.com](mailto:pantiraploy818@gmail.com)
 
 ### Skills
 
